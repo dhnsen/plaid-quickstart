@@ -20,7 +20,7 @@
     "ejs": "2.5.x",
     "envvar": "1.1.x",
     "express": "4.16.x",
-    "moment": "2.22.x",
+    "moment": "2.29.x",
     "nodemon": "1.19.1",
     "plaid": "4.x.x"
   },
